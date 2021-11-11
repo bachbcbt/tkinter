@@ -1,0 +1,12 @@
+B1: sent to terminal
+json = {"order":"findnext","match_case":"1","wrap_around": "0", "find_what": "", "replace_with": ""}
+B2: sent with MQTT
+function sent with MQTT write with file MQTT_lib_tk.py
+import to file app.py
+B3: please create 2 app windown with extension file *.exe:
+suggest use pyinstaller lib.
+Note: App1.exe. Pub node
+      App2.exe. Sub node
+      App1.exe same like Replace app
+      APp2.exe reading Message from replace app and save it to SQL server 
+      with column = key name, value in column = value.
